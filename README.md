@@ -1,11 +1,11 @@
-# payment_calculus
+## payment_calculus
 
-## A simple Java program to fix some core concepts.
+### A simple Java program to review some core concepts.
 
-### Date manipulation using Calendar class
+- Date manipulation using Calendar class
 
-### Use of Enums
+- Use of Enums
 
-### Composition
+- Composition
 
-### List interface
+- List interface
